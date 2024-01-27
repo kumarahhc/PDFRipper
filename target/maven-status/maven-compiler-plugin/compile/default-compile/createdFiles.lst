@@ -1,0 +1,12 @@
+com\i3cubes\pdfdataripper\PDFDocTextStripper.class
+com\i3cubes\pdfdataripper\DataExtractor.class
+com\i3cubes\pdfdataripper\PDFData.class
+com\i3cubes\pdfdataripper\XMLlUtility.class
+com\i3cubes\pdfdataripper\PDFCotentExtractor.class
+com\i3cubes\pdfdataripper\PDFDataRipper.class
+com\i3cubes\pdfdataripper\TableHeader.class
+com\i3cubes\pdfdataripper\PDFTableStripper.class
+com\i3cubes\pdfdataripper\TableCell.class
+com\i3cubes\pdfdataripper\SearchField.class
+com\i3cubes\pdfdataripper\Table.class
+com\i3cubes\pdfdataripper\TableRow.class

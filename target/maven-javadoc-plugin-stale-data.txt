@@ -1,0 +1,56 @@
+@options
+@packages
+-classpath
+'C:/Users/kumar/.m2/repository/org/apache/pdfbox/pdfbox/2.0.27/pdfbox-2.0.27.jar;C:/Users/kumar/.m2/repository/org/apache/pdfbox/fontbox/2.0.27/fontbox-2.0.27.jar;C:/Users/kumar/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/kumar/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.14.2/jackson-databind-2.14.2.jar;C:/Users/kumar/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.14.2/jackson-annotations-2.14.2.jar;C:/Users/kumar/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.14.2/jackson-core-2.14.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'D:/NGS/Projects/Java/PDFDataRipper_standard/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/NGS/Projects/Java/PDFDataRipper_standard/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PDFDataRipper 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/NGS/Projects/Java/PDFDataRipper_standard/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'PDFDataRipper 1.0 API'
+com.i3cubes.pdfdataripper
+C:\Users\kumar\.m2\repository\org\apache\pdfbox\pdfbox\2.0.27\pdfbox-2.0.27.jar = 1679144202105
+C:\Users\kumar\.m2\repository\org\apache\pdfbox\fontbox\2.0.27\fontbox-2.0.27.jar = 1679144200093
+C:\Users\kumar\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1679144199897
+C:\Users\kumar\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.2\jackson-databind-2.14.2.jar = 1681356241743
+C:\Users\kumar\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.2\jackson-annotations-2.14.2.jar = 1681356241600
+C:\Users\kumar\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.2\jackson-core-2.14.2.jar = 1681356241743
+D:\NGS\Projects\Java\PDFDataRipper_standard\src\main\java = 1681367937529
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\allclasses-index.html = 1683427460576
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\allclasses.html = 1683427460608
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\allpackages-index.html = 1683427460585
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\constant-values.html = 1683427460370
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\deprecated-list.html = 1683427460597
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\element-list = 1683427460342
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\help-doc.html = 1683427460618
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\index-all.html = 1683427460563
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\index.html = 1683427460612
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\jquery-ui.overrides.css = 1683427460879
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\member-search-index.js = 1683427460552
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\member-search-index.zip = 1683427460561
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\overview-tree.html = 1683427460519
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\package-search-index.js = 1683427460539
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\package-search-index.zip = 1683427460546
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\script.js = 1683427460644
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\search.js = 1683427460654
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\stylesheet.css = 1683427460629
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\type-search-index.js = 1683427460547
+D:\NGS\Projects\Java\PDFDataRipper_standard\target\site\apidocs\type-search-index.zip = 1683427460551
